@@ -1,2 +1,3 @@
 # Super-Hardware-
-I'm creating a futuristic type of computer hardware. 
+I'm learning to use github.
+
